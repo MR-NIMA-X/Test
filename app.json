@@ -3,9 +3,7 @@
     "description": "Coded By mr nima",
     "logo": "https://i.ibb.co/wyWzxgq/1275240.jpg ",
     "keywords": ["whatsapp", "userbot", "bot", "api", "ai"],
-    "repository": "https://github.com/thinura2003/X-Troid",
-    "website":   "Nimaa.ml",
-    "success_url": "https://t.me/danumabots",
+    "repository": "https://github.com/MRnimaofc2/Test",
     "stack": "container",
     "env": {
         "A_XTROIDNIMA_SESSION": {
