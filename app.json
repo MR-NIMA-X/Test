@@ -1,14 +1,14 @@
 {
-    "name": "Xtroid Nima edition",
-    "description": "Coded By Lasiya edit by Mr Nima",
-    "logo": "https://telegra.ph/file/74177b42dd783b0451298.jpg",
+    "name": "X-TROID NIMA",
+    "description": "Coded By mr nima",
+    "logo": "https://i.ibb.co/wyWzxgq/1275240.jpg ",
     "keywords": ["whatsapp", "userbot", "bot", "api", "ai"],
     "repository": "https://github.com/thinura2003/X-Troid",
-    "website":   "lasiya.ml",
+    "website":   "Nimaa.ml",
     "success_url": "https://t.me/danumabots",
     "stack": "container",
     "env": {
-        "A_XTROID_SESSION": {
+        "A_XTROIDNIMA_SESSION": {
             "description": "Type here yours X-Troid Session (after get scanning QR)  QR කේතය scan කර ලබාගත් අදාල කේතය මෙහි යොදන්න.",
             "required": true
         },
