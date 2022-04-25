@@ -1,11 +1,9 @@
 {
-    "name": "Xtroid Nima edition",
-    "description": "Coded By Lasiya edit by Mr Nima",
+    "name": "X-TROID NIMA EDITION",
+    "description": "Coded By Mr Nima",
     "logo": "https://telegra.ph/file/74177b42dd783b0451298.jpg",
     "keywords": ["whatsapp", "userbot", "bot", "api", "ai"],
     "repository": "https://github.com/MRnimaofc2/X-TROID-NIMA",
-    "website":   "lasiya.ml",
-    "success_url": "https://t.me/danumabots",
     "stack": "container",
     "env": {
         "A_NIMAXTROID_SESSION": {
