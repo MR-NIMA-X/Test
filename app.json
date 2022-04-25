@@ -1,7 +1,7 @@
 {
     "name": "Xtroid Nima edition",
     "description": "Coded By Mr Nima",
-    "logo": "https://telegra.ph/file/74177b42dd783b0451298.jpg",
+    "logo": "https://i.ibb.co/wyWzxgq/1275240.jpg",
     "keywords": ["whatsapp", "userbot", "bot", "api", "ai"],
     "repository": "https://github.com/MRnimaofc2/X-TROID-NIMA",
     "website":   "Nima.ml",
@@ -106,12 +106,12 @@
         },
         "GIF_WEL": {
             "description": "set custom welcom gif past direct lnk of mp4 or gif ⚠️must not bigger than 2MB ( can cange after )/ලබාදී ඇති පිළිගැනීමේ පණිවිඩයට ඔබට අවශ්‍ය වීඩියෝවක් එක කිරීමට වීඩියෝවක ඩිරෙක් ලින්ක් එකක් මෙහි යොදන්න ⚠️2MB වලට අඩු",
-            "required": true
+            "required": true,
             "value": "https://telegra.ph/file/0fca9ab5c4fc2e96be6c7.mp4"
         },
         "GIF_BYE": {
             "description": "set custom good bye gif past direct lnk of mp4 or gif ⚠️must not bigger than 2MB ( can cange after )/ලබාදී ඇති සමුදීමේ පණිවිඩයට ඔබට අවශ්‍ය වීඩියෝවක් එක කිරීමට වීඩියෝවක ඩිරෙක් ලින්ක් එකක් මෙහි යොදන්න ⚠️2MB වලට අඩු",
-            "required": true
+            "required": true,
             "value": "https://telegra.ph/file/8783b3b2e5ad557d6939c.mp4"
         },
         "ALIVEMSG": {
@@ -171,7 +171,7 @@
         "ALIVEIMG": {
             "description": "Customizable Alive Image!: ALIVE පණිවිඩයේ පින්තුරය  ඔබට අවශ්‍ය පරිදි වෙනස් කරගැනීමට",
             "required": false,
-            "value": "https://telegra.ph/file/74177b42dd783b0451298.jpg"
+            "value": "https://i.ibb.co/wyWzxgq/1275240.jpg"
         },
         "SONDOWNMSG": {
             "description": "Song downloading message;",
