@@ -36,7 +36,8 @@
 
 <h4> X-TROID NIMA DEPLOY කිරීමට </h4>
 	
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MRnimaofc2/Test)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MRnimaofc2/Test
+	)
 </div align="center">
 </p>
 	
@@ -51,3 +52,20 @@
 
 
  <a href="https://id.heroku.com/signup/login">☿ MAKE HEROKU ACOUNT ☿ </a>
+ 
+ 
+ 
+ 
+ 
+ #####  මෙම වීඩියෝව බලා ඔබගේම deploy link 1ක් සකසාගන්න 
+ 
+         
+               https://heroku.com/deploy?template=https://github.com/USERNAME(UBENAMADAPAN)/Test
+	       
+	      
+
+#### Base bot
+
+#### Helpers
+
+#### more
