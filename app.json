@@ -1,11 +1,14 @@
 {
-    "name": "X-TROID NIMA EDITION",
+    "name": "Xtroid Nima edition",
     "description": "Coded By Mr Nima",
     "logo": "https://telegra.ph/file/74177b42dd783b0451298.jpg",
     "keywords": ["whatsapp", "userbot", "bot", "api", "ai"],
     "repository": "https://github.com/MRnimaofc2/X-TROID-NIMA",
+    "website":   "Nima.ml",
+    "success_url": "https://t.me/danumabots",
     "stack": "container",
     "env": {
+
         "NIMA_XTROID_SESSION": {
             "description": "Type here yours X-Troid Session (after get scanning QR)  QR කේතය scan කර ලබාගත් අදාල කේතය මෙහි යොදන්න.",
             "required": true
