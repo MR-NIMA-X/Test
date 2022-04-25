@@ -6,7 +6,7 @@
     "repository": "https://github.com/MRnimaofc2/X-TROID-NIMA",
     "stack": "container",
     "env": {
-        "A_NIMAXTROID_SESSION": {
+        "NIMA_XTROID_SESSION": {
             "description": "Type here yours X-Troid Session (after get scanning QR)  QR කේතය scan කර ලබාගත් අදාල කේතය මෙහි යොදන්න.",
             "required": true
         },
@@ -103,11 +103,13 @@
         },
         "GIF_WEL": {
             "description": "set custom welcom gif past direct lnk of mp4 or gif ⚠️must not bigger than 2MB ( can cange after )/ලබාදී ඇති පිළිගැනීමේ පණිවිඩයට ඔබට අවශ්‍ය වීඩියෝවක් එක කිරීමට වීඩියෝවක ඩිරෙක් ලින්ක් එකක් මෙහි යොදන්න ⚠️2MB වලට අඩු",
-            "required": false
+            "required": true
+            "value": "https://telegra.ph/file/0fca9ab5c4fc2e96be6c7.mp4"
         },
         "GIF_BYE": {
             "description": "set custom good bye gif past direct lnk of mp4 or gif ⚠️must not bigger than 2MB ( can cange after )/ලබාදී ඇති සමුදීමේ පණිවිඩයට ඔබට අවශ්‍ය වීඩියෝවක් එක කිරීමට වීඩියෝවක ඩිරෙක් ලින්ක් එකක් මෙහි යොදන්න ⚠️2MB වලට අඩු",
-            "required": false
+            "required": true
+            "value": "https://telegra.ph/file/8783b3b2e5ad557d6939c.mp4"
         },
         "ALIVEMSG": {
             "description": "Customizable Alive Message!: ALIVE පණිවිඩය ඔබට අවශ්‍ය පරිදි වෙනස් කරගැනීමට",
